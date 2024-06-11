@@ -1,0 +1,39 @@
+
+body{
+    background: #E5E5E5;
+}
+
+
+
+
+
+.form-group {
+    width: 370px;
+    margin: 10% auto;    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: 0 0 2px black;
+    border-radius: 5px;
+
+}
+.form-group h3 {
+    text-align: center;
+}
+
+.button-container {
+    width: 321px;
+    display: flex;
+    justify-content: end;
+
+}
+
+.btn {
+
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 80px;
+}
